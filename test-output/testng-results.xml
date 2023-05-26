@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T20:59:45 EST" name="Suite" finished-at="2023-03-08T20:59:45 EST" duration-ms="100">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T20:59:45 EST" name="Test" finished-at="2023-03-08T20:59:45 EST" duration-ms="100">
+      <class name="TestNGtest.Parameterizedtest">
+        <test-method signature="parameterTest(java.lang.String,java.lang.String)[pri:0, instance:TestNGtest.Parameterizedtest@1b7cc17c]" started-at="2023-03-08T20:59:45 EST" name="parameterTest" finished-at="2023-03-08T20:59:45 EST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://qavbox.github.io/demo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- parameterTest -->
+      </class> <!-- TestNGtest.Parameterizedtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
